@@ -1,0 +1,12 @@
+{
+  "name": "twitter-pixel",
+  "version": "1.0.0",
+  "description": "Symphony Commerce / Twitter Pixel",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/symphony-pixels/twitter-pixel"
+  },
+  "author": "Symphony Commerce SA Team",
+  "license": "ISC"
+}
