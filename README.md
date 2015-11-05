@@ -1,4 +1,4 @@
-# Symphony Commerce / Twitter Pixel
+# Symphony Commerce / Quantcast Async Pixel
 
 Use:
 

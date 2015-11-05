@@ -1,5 +1,6 @@
 module.exports = function (qacct, labels, orderInfo) {
 	var _qevents = _qevents || [];
+	
 	(function() {
 		var elem = document.createElement('script');
 		elem.src = (document.location.protocol == "https:" 
@@ -17,6 +18,6 @@ module.exports = function (qacct, labels, orderInfo) {
 	 	orderid: orderInfo.orderId,
 	 	revenue: orderInfo.orderRevenue
  	});
- 	
+
 	return "fired";
 };
