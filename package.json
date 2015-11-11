@@ -1,11 +1,11 @@
 {
-  "name": "twitter-pixel",
+  "name": "quantcast-pixel",
   "version": "1.0.0",
-  "description": "Symphony Commerce / Twitter Pixel",
+  "description": "Symphony Commerce / Quantcast Pixel",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/symphony-pixels/twitter-pixel"
+    "url": "https://github.com/symphony-pixels/quantcast-pixel"
   },
   "author": "Symphony Commerce SA Team",
   "license": "ISC"
